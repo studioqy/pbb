@@ -1,5 +1,5 @@
 '''
-Week 3-4 Assignment Meal Price Calculator
+Week 4 Assignment Meal Price Calculator
 Computes and prints the cost of a meal based on the number of adult and child
 meals and the cost of each.
 Oct 10 2020

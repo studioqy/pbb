@@ -1,5 +1,5 @@
 '''
-Week 8 Checkpoint Green Background
+Week 8 Assignment Green Background
 Opens two images, removes the green pixels from one and overlays it on the
 other, simulating a green-screened effect
 Nov 7 2020

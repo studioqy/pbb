@@ -1,5 +1,5 @@
 '''
-Week 05-06 Assignment Adventure Game
+Week 6 Assignment Adventure Game
 A text game users can play with 9 endings!
 October 24 2020
 '''
