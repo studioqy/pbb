@@ -1,3 +1,9 @@
+'''
+Week 2 Checkpoint ID Card
+Takes information from a user and prints it formated as an ID card
+Sept 22 2020
+'''
+
 first_name = input('What is you first name? ')
 last_name = input('What is your last name? ')
 email = input('What is your email address? ')

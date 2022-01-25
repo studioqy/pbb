@@ -1,11 +1,8 @@
 '''
-QY
-December 5 2020
-PBB
-
-Week 11/12
-Life Expetancy Assignment
-Focus: Files
+Week 12 Assignment Worldwide Expectancy
+Uses data about world life expectancies to print various data about it and
+about a year and country that the user enters.
+Dec 5 2020
 '''
 
 with open("life-expectancy.csv") as life_expectancies:

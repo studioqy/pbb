@@ -1,12 +1,14 @@
 '''
-Week 1 Favorite Color
+Week 1 Assignment Favorite Color
 Takes user's favorite color, prints it, and prints the compliment if it's one of the
 six main colors on the color wheel
+Sept 19 2020
 '''
 
 color = input('Please type your favorite color: ')
 print('Your favorite color is ' + color + '.')
 
+# Extra
 if color == 'red' or color == 'Red':
     comp = 'green'
     print('The compliment of ' + color + ' is ' + comp + '.')

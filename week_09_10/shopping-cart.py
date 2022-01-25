@@ -1,11 +1,8 @@
 '''
-QY
+Week 10 Assignment Shopping Cart
+Simulates an online shopping cart with 5 menu items to add, remove, list
+items, compute total cost, and quit
 November 21 2020
-PBB
-
-Week 09/10
-Shopping Cart Assignment
-Focus: Lists
 '''
 
 menu_value = 0

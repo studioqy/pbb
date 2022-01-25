@@ -1,10 +1,7 @@
 '''
-QY
+Week 13 Assignment Wind Chill
+Prints a chart calculating the wind chill at various temperatures
 December 14 2020
-PBB
-
-Week 13 Prove Assignment
-Focus: Functions
 '''
 
 windspeeds = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60]

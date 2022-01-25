@@ -1,10 +1,8 @@
 '''
-QY
-November 3 2020
-PBB
-
-Week 08 Checkpoint
-Focus: Loops
+Week 8 Checkpoint Integer Sums
+Asks the user for a number and computer the sum of all positive integers
+up to that number
+Nov 3 2020
 '''
 
 your_num = int(input("What is your favorite number? "))

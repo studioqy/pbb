@@ -1,3 +1,9 @@
+'''
+Week 12 Checkpoint Youngest Person
+Uses a list of names and ages to determine who is the youngest
+Dec 1 2020
+'''
+
 people = [
     "Stephanie 36",
     "John 29",

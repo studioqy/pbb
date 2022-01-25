@@ -1,5 +1,7 @@
 '''
-Thing
+Week 2 Assignment MadLib
+Asks the user for a series of words and prints them added into a silly story
+Sept 26 2020
 '''
 
 print('Please enter the following: \n')

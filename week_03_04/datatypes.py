@@ -1,3 +1,9 @@
+'''
+Week 3 Checkpoint Questions
+Asks various questions and prints responses
+Sept 29 2020
+'''
+
 current_age = int(input('How old are you? '))
 next_age = current_age + 1
 print(f'On your next birthday, you will be {next_age}\n')

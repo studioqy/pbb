@@ -1,21 +1,17 @@
 '''
-Week 05/06 Adventure Game
-Focus: If/Else Statements and Nested If/Else Statements
-QY
+Week 05-06 Assignment Adventure Game
+A text game users can play with 9 endings!
+October 24 2020
 '''
 
 '''
+Extra:
 Aside from the if/else statements, I also added a while loop and series of if/else
 statements so that after reaching an ending, the user could continue the game
 by starting back at any choice they had previous made. Also, there is a while
 loop displaying an error at every place the user can give input, so if the
 enter something other than the listed options, it will simply ask them to
 enter one of the listed options.
-'''
-
-'''
-I showed this program and code to several people and explained how it worked,
-fulfilling the extra credit requirement.
 '''
 
 # Handy variables

@@ -1,16 +1,15 @@
 '''
-QY
-November 7 2020
-PBB
-
-Week 08 Checkpoint
-Focus: Loops
+Week 8 Checkpoint Green Background
+Opens two images, removes the green pixels from one and overlays it on the
+other, simulating a green-screened effect
+Nov 7 2020
 '''
 
 from PIL import Image
 
 print("Please include the file type for all of your responses (Ex .jpg, .png)")
 # Try field.jpg as background and cat.jpg as green screened image
+# The images must be in the same directory as this file
 b_img = input("What background image would you like to use? ")
 g_img = input("What image on a green screen would you like to use? ")
 final_img = input("What name would you like to save the new image as? ")

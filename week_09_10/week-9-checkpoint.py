@@ -1,4 +1,9 @@
-#Week 9 Checkpoint
+'''
+Week 9 Checkpoint Friends List
+Asks user to list the names of their friends and prints them. Stops when the
+user types 'end'
+Nov 10 2020
+'''
 
 friends_end = "notend"
 your_friends = []
