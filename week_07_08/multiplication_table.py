@@ -1,5 +1,5 @@
 '''
-Week 8 Team Activity Multiplication Tables
+Week 8 Team Activity Multiplication Table
 Asks to user for a number and prints the multiplication table with factors up
 to that number
 Nov 5 2020
